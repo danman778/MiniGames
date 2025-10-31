@@ -1,0 +1,4 @@
+A homemade 2048 game, where you combine powers of 2 to eventually make 2048. 
+One of my earlier projects, so the I/O isn't remotely good, with up, left, 
+right, and down mapped to the numbers 8, 4, 6, and 2 respcetively
+(making the game at least playable on a number pad).

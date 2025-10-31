@@ -1,0 +1,6 @@
+In this game, you move a red square around to fill in a map, without 
+letting the balls bouncing around hit you or your tail. Fill in 
+at least 75 percent of the map to beat the level and add another ball.
+Get hit three times, and the game is over.
+The algorithm that decides where gets filled is actually just a slight
+modification to the maze solver in mazer.r from the maze solvers folder.

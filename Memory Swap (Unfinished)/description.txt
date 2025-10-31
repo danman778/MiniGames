@@ -1,0 +1,7 @@
+One of the last games I was developing, and was left 
+unfinished as I started working more in Python. The end
+goal was for this to run the game memory, where players flip 
+over cards and try to make matches, but players also move cards
+around on their turn, hence the 'swap' in the name.
+The only completed parts are the starting menu and 
+the homemade graphics library for the shapes on the cards.

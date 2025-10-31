@@ -1,0 +1,3 @@
+Standard hangman game. The initial word and guesses are 
+typed in the dialogue box, while the graphics window displays
+all involved graphics, including guessed letters.

@@ -1,0 +1,8 @@
+This is a couple of maze solvers I developed. In the first,
+mazer.1, the user places blocks and then the computer tries to
+solve the given maze, highlighting the path in red if there is one.
+The second solver, mazer.r, is slightly more sophisticated, as now
+the user gets the option to start with a random percentage of the
+board filled (helpful on large boards), and the solver not only marks
+the solution in red, but also marks all accesible squares in a lighter
+shade of gray.

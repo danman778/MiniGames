@@ -1,0 +1,4 @@
+The classic battleship game, but adapted to all be played on one laptop.
+This is not a very useful adaptation because it requires passing the laptop a lot.
+and neither player every sees their own ships again after placing them.
+But it does work.

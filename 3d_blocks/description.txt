@@ -1,0 +1,7 @@
+A simple 3D graphics project. After running the program, 
+clicking anywhere on the graphics window will create a cube in that location.
+Arrow keys can be used to change the camera location, and the plus and minus
+signs on the right of the graphics window zoom in and out.
+Placing just a few blocks already causes strain to the graphics engine 
+(an innate problem with the language and libraries I am using for graphics),
+so I didn't put a lot of work into developing the project past functionality.

@@ -1,0 +1,8 @@
+The goal behind this project was to make a game where two players
+would maneuver tanks around a 2d map and shoot bullets that ricochet
+off of walls, where each would try to hit thier opponent before getting 
+hit themselves. Unfortunately, the drawing speed of the graphics software
+used throttles game speed to the degree that the game wouldn't be very fun, 
+so the idea was scrapped. The map generation, tank motion, and bullet motion 
+function, as well as most of the collision, but the collision between tanks
+and bullets never got coded and tank/wall collision doesn't work well on corners.

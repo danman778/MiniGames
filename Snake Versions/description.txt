@@ -1,0 +1,8 @@
+Three versions of the snake game. The first, snake.cpp (and the compiled snake.exe), 
+is an average snake game, similar to one you would find on google.
+In auto_snake, instead of you playing the game, the computer maps the path
+and moves the snake from apple to apple, occasionally choosing strange paths
+because it's algorithm is built out of a generic maze solver.
+Finally, in toggle_snake, you can switch off control between the player
+and computer with the press of a button, allowing the computer to get you out
+of a tight spot.

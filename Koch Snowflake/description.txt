@@ -1,0 +1,5 @@
+Draws the next iteration of the Koch Snowflake when any character is input
+(typed and enter hit) in the dialogue box. This questionable I/O decision
+comes as a result of this being one of the first programs I made in C++.
+The drawing time starts becoming pretty long after a few iterations, but
+it could also probably be used to estimate the surface area at each iteration.
